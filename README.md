@@ -23,4 +23,6 @@ I'm running my blog about web-development on Hashnode.
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
 ![Stats](./profile-3d-contrib/profile-green-animate.svg)
