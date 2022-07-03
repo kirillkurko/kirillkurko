@@ -16,4 +16,11 @@ I'm focused on frontend development, so here is a list of technologies I use or 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,materialui,react,redux,nextjs,vercel,graphql,apollo,firebase,bash,git,github,webpack,vite,rollupjs&perline=10)](https://skillicons.dev)
 
+### 📘 Latest Blog Posts
+
+I'm running my blog about web-development on Hashnode.
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ![Stats](./profile-3d-contrib/profile-green-animate.svg)
