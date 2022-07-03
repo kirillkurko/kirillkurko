@@ -1,6 +1,6 @@
 ![Header](./assets/header-image.png)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,react,redux,nextjs,vercel,graphql,apollo,firebase,bash,git&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,materialui,react,redux,nextjs,vercel,graphql,apollo,firebase,bash,git,github,webpack,vite,rollupjs&perline=10)](https://skillicons.dev)
 
 <!--
 **kirillkurko/kirillkurko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
