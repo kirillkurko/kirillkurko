@@ -26,6 +26,15 @@ I'm running my blog about web-development on Hashnode.
 - [Why I started my blog?](https://kkurko.hashnode.dev/why-i-started-my-blog)
 <!-- BLOG-POST-LIST:END -->
 
+### 💬 Let's connect
+
+Feel free to contact me on these social networks.
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kirillkurko)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirillkurko/)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@kkurko)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aqwergqwec/)
+
 ---
 
 ![Stats](./profile-3d-contrib/profile-green-animate.svg)
