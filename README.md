@@ -21,6 +21,7 @@ I'm focused on frontend development, so here is a list of technologies I use or 
 I'm running my blog about web-development on Hashnode.
 
 <!-- BLOG-POST-LIST:START -->
+- [Penguin mentality employee](https://kkurko.hashnode.dev/penguin-mentality-employee)
 - [One more article about useEffect hook](https://kkurko.hashnode.dev/one-more-article-about-useeffect-hook)
 - [CSR, SSR, SSG, ISR Explained](https://kkurko.hashnode.dev/csr-ssr-ssg-isr-explained)
 - [Why I started my blog?](https://kkurko.hashnode.dev/why-i-started-my-blog)
