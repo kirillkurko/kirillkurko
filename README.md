@@ -40,5 +40,3 @@ Feel free to contact me on these social networks.
 ---
 
 ![Stats](./profile-3d-contrib/profile-green-animate.svg)
-
-![](https://komarev.com/ghpvc/?username=kirillkurko)
