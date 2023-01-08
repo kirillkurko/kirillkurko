@@ -21,11 +21,11 @@ I'm focused on frontend development, so here is a list of technologies I use or 
 I'm running my blog about web-development on Hashnode.
 
 <!-- BLOG-POST-LIST:START -->
+- [Improve your imports with TypeScript path aliases &lpar;React Native edition&rpar;](https://kkurko.hashnode.dev/improve-your-imports-with-typescript-path-aliases-react-native-edition)
 - [How to use Amplitude with React Native](https://kkurko.hashnode.dev/how-to-use-amplitude-with-react-native)
 - [Direct messages should be dead](https://kkurko.hashnode.dev/direct-messages-should-be-dead)
 - [Slack communication tips](https://kkurko.hashnode.dev/slack-communication-tips)
 - [Penguin mentality employee](https://kkurko.hashnode.dev/penguin-mentality-employee)
-- [One more article about useEffect hook](https://kkurko.hashnode.dev/one-more-article-about-useeffect-hook)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💬 Let's connect
