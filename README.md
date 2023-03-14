@@ -21,11 +21,11 @@ I'm focused on frontend development, so here is a list of technologies I use or 
 I'm running my blog about web-development on Hashnode.
 
 <!-- BLOG-POST-LIST:START -->
+- [Values, Abilities, and Skills](https://kkurko.hashnode.dev/values-abilities-and-skills)
 - [The shortcut that revolutionized my workflow](https://kkurko.hashnode.dev/the-shortcut-that-revolutionized-my-workflow)
 - [Keep your dependencies up to date with Dependabot on GitLab](https://kkurko.hashnode.dev/keep-your-dependencies-up-to-date-with-dependabot-on-gitlab)
 - [Fastest Flutter vs React Native comparison](https://kkurko.hashnode.dev/fastest-flutter-vs-react-native-comparison)
 - [Improve your imports with TypeScript path aliases &lpar;React Native edition&rpar;](https://kkurko.hashnode.dev/improve-your-imports-with-typescript-path-aliases-react-native-edition)
-- [How to use Amplitude with React Native](https://kkurko.hashnode.dev/how-to-use-amplitude-with-react-native)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💬 Let's connect
