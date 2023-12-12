@@ -14,7 +14,7 @@ I'm a frontend developer with backend experience. I really like to share knowled
 
 I'm focused on frontend development, so here is a list of technologies I use or have good experience with.
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,materialui,react,redux,nextjs,vercel,graphql,apollo,firebase,bash,git,github,webpack,vite,rollupjs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,styledcomponents,materialui,react,redux,remix,nextjs,vercel,graphql,apollo,firebase,planetscale,bash,git,github,webpack,vite,rollupjs&perline=10)](https://skillicons.dev)
 
 ### 📘 Latest Blog Posts
 
