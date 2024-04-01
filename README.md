@@ -21,11 +21,11 @@ I'm focused on frontend development, so here is a list of technologies I use or 
 I'm running my blog about web-development on Hashnode.
 
 <!-- BLOG-POST-LIST:START -->
+- [Big tech interview experience](https://kkurko.hashnode.dev/big-tech-interview-experience)
 - [I write big React components](https://kkurko.hashnode.dev/i-write-big-react-components)
 - [Blame the game, not the player](https://kkurko.hashnode.dev/blame-the-game-not-the-player)
 - [How I keep up with the latest technologies](https://kkurko.hashnode.dev/how-i-keep-up-with-the-latest-technologies)
 - [How to keep your inbox under control](https://kkurko.hashnode.dev/how-to-keep-your-inbox-under-control)
-- [Values, Abilities, and Skills](https://kkurko.hashnode.dev/values-abilities-and-skills)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💬 Let's connect
